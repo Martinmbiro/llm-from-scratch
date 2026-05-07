@@ -25,7 +25,7 @@ Hello again 👋
 
 ## References 📚
 
-> <img src='https://github.com/Martinmbiro/llm-from-scratch/raw/refs/heads/main/shots/Screenshot%202026-05-07%20075837.png' alt='book cover page' height=400/>
+> <img src='https://github.com/Martinmbiro/llm-from-scratch/raw/refs/heads/main/shots/Screenshot%202026-05-07%20075837.png' alt='book cover page' />
 + [Raschka, S. (2024). Build a large language model (from scratch). Simon and Schuster.](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 + Supplementary code-along YouTube videos for the book linked [here](https://youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11&si=jSCWJ67PVHDc1gmD)
 
